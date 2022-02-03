@@ -1,4 +1,4 @@
-namespace NeuralNetwork;
+namespace NeuralNetworkTest;
 public class NeuralNode {
     public double Value { get; set; }
     public List<NeuralNode> ConnectedNodes { get; private set; } = new List<NeuralNode>();
