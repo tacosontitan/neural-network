@@ -4,3 +4,5 @@ for (int i = 0; i < 10; i++) {
     var node = new NeuralNode(randomGenerator.NextDouble());
     Console.WriteLine(node.Value);
 }
+
+// Testing updates to git settings.
