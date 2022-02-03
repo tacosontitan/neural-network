@@ -1,0 +1,15 @@
+C:\Users\JamieDavis\source\concepts\neural-network\bin\Debug\net6.0\neural-network.exe
+C:\Users\JamieDavis\source\concepts\neural-network\bin\Debug\net6.0\neural-network.deps.json
+C:\Users\JamieDavis\source\concepts\neural-network\bin\Debug\net6.0\neural-network.runtimeconfig.json
+C:\Users\JamieDavis\source\concepts\neural-network\bin\Debug\net6.0\neural-network.dll
+C:\Users\JamieDavis\source\concepts\neural-network\bin\Debug\net6.0\ref\neural-network.dll
+C:\Users\JamieDavis\source\concepts\neural-network\bin\Debug\net6.0\neural-network.pdb
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\neural-network.csproj.AssemblyReference.cache
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\neural-network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\neural-network.AssemblyInfoInputs.cache
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\neural-network.AssemblyInfo.cs
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\neural-network.csproj.CoreCompileInputs.cache
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\neural-network.dll
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\ref\neural-network.dll
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\neural-network.pdb
+C:\Users\JamieDavis\source\concepts\neural-network\obj\Debug\net6.0\neural-network.genruntimeconfig.cache
